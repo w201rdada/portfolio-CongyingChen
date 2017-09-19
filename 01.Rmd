@@ -4,8 +4,7 @@ output:
   pdf_document: default
 ---
 
-#Personalized Service & Pricing with Hotel Loyalty {#PSP-HotelLoyalty}
-### My first cool idea 
+# Personalized Service & Pricing with Hotel Loyalty {#PSP-HotelLoyalty}
 
 #### Keywords
 
@@ -40,4 +39,5 @@ With those deeper understanding on loyalty guests, hotels/hotel groups can send 
 However, there is still some concerns about the loyalty program improvement by data science technologies. (1) Different people sometimes will use the same loyalty membership card for the benefit of the free upgrade and amenities, which let the one guests account as many different guests’ information. (2) The unique and customized service will increase the cost. So, hotels need to pay attention to the cost and revenue balance, by selecting the service level of granularity base on their brand features. 
 
 [^marnote]:Marriott International, Inc.. (2016). Marriott International, Inc.. Annual Report.. Retrieved from: http://investor.shareholder.com/MAR/reports.cfm.
+
 [^voonote]:Voorhees, C., McCall, M., & Carroll, B. (2014). Assessing the benefits of reward programs: A recommended approach and case study from the lodging industry [Electronic article]. Cornell Hospitality Report, 14(1), 6-12.
