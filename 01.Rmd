@@ -1,24 +1,43 @@
-# My first cool idea {#slug-one}
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+
+#Personalized Service & Pricing with Hotel Loyalty {#PSP-HotelLoyalty}
+### My first cool idea 
 
 #### Keywords
 
-yaba, daba, do
+Hotel Loyalty Program, Personalized service, Dynamic Pricing, Data Science
 
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+More and more hotel groups are promoting attracting loyalty programs, for attracting the top 20% loyalty guests who is contribution 80% revenue to the hotel. After the Marriott – Starwood Merger, the worlds’ biggest hotel group is having the most powerful frequent traveler programs in the lodging industry, with 100 million loyal members (Marriott 2016 Annual Report)[^marnote]. As to the independent hotels, companies like the Leading Hotels of the World are offering loyalty program of luxury independent hotels all over the world. Independent hotels experienced an average 50% increase in annual revenue when customers joined their loyalty programs (Voorhees, C., McCall, M., & Carroll, B. 2014)[^voonote]. In a word, loyalty program and loyal guests are playing more and more important role in hotel business globally, including hotel groups and independent hotels. 
+
+Although hoteliers were trying their best to serve the guests, based on their experience and personal judgement in the past century, hotels don’t have powerful tools or systems to have a thorough and aggregated understanding of those high-value guests to achieve the best business outcome. Guests’ experience is unsatisfied, the price and the guests willing to pay are mismatching, and they are even continuously losing high-value guests. 
+
+However, mountains of data about those guests is already available in the hotel systems. Hence, in order to have a better business outcome, hotels/hotel groups need to utilize the state of are data science technologies to increase the quality of personized service products and have a better customized pricing for high-level loyalty guests.  
+
+<!-- ...or include images directly from the web. Cite your sources! -->
+```{r machine-learning,echo=FALSE,fig.cap='[Hotel Loyalty Programs](https://www.smartertravel.com/2017/04/12/best-hotel-loyalty-programs-2017/)',fig.align='center',out.width='80%'}
+knitr::include_graphics('https://www.smartertravel.com/uploads/2017/04/Ed-Choice-Hotel-Rewards-1024x768.jpg')
+```
+
 
 ## A middle.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+Because loyalty guests are very easy to be tracked by membership number, there is a lot of data source available to start with. The reservation data from Property Management System (PMS) for better pricing: booking channels, advance days of booking, reservation change history, type of rooms booked, travel destinations, hotel brands, yearly revenue contribution, etc. The guests’ preferences from PMS for better service: the bedding and pillow, welcome amenity, transportation service, room view, room facility, special needs, F&B purchase, meeting and business service needs, etc. The website browse and click data when members logging in to the hotel websites for better marketing campaigns. And even the data from hotel cameras in public areas for better hotel design and service: guests’ move flow in the hotel, the size of luggage, the time that active in the public area, etc. 
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+If all the data mentioned above could be aggregated into one data set for data science technologies (machine learning, deep learning with smart camera network, time series forecasting, etc.), we would have a better understanding of the guests’ needs, preferences, affordable prices, travel purposes, even before they understand themselves. 
+
 
 ## An end.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+With those deeper understanding on loyalty guests, hotels/hotel groups can send personal welcome letter before guests’ arrival, provide unique service before they ask, offer unique and customized price based on their annual revenue contribution, and introduce the newly open hotels or products which they must be interested in. Because the hotel/hotel groups provide such a unique and personalized service to the guests based on the data science technology, and the price they charge is just at the guests’ affordable level, the guests experience and loyalty retention rate will be improved, and the revenue outcome will increase enormously. 
+
+However, there is still some concerns about the loyalty program improvement by data science technologies. (1) Different people sometimes will use the same loyalty membership card for the benefit of the free upgrade and amenities, which let the one guests account as many different guests’ information. (2) The unique and customized service will increase the cost. So, hotels need to pay attention to the cost and revenue balance, by selecting the service level of granularity base on their brand features. 
+
+[^marnote]:Marriott International, Inc.. (2016). Marriott International, Inc.. Annual Report.. Retrieved from: http://investor.shareholder.com/MAR/reports.cfm.
+[^voonote]:Voorhees, C., McCall, M., & Carroll, B. (2014). Assessing the benefits of reward programs: A recommended approach and case study from the lodging industry [Electronic article]. Cornell Hospitality Report, 14(1), 6-12.
