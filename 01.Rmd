@@ -1,13 +1,19 @@
+---
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
 
-# Personalized Service & Pricing with Hotel Loyalty {#PSP-HotelLoyalty}
+# Personalized Service and Pricing for Hotel Loyal Guests {#PSP-HotelLoyalty}
 
 #### Keywords
 
-Hotel Loyalty Program, Personalized service, Dynamic Pricing, Data Science
+Hotel Loyalty Guests, Personalized service, Dynamic Pricing
 
-## A beginning.
+## Loyalty Program Can Bring More Revnue, if Hotels Know Their Guests Better.
 
-More and more hotel groups are promoting attracting loyalty programs, for attracting the top 20% loyalty guests who is contribution 80% revenue to the hotel. After the Marriott – Starwood Merger, the worlds’ biggest hotel group is having the most powerful frequent traveler programs in the lodging industry, with 100 million loyal members (Marriott 2016 Annual Report)[^marnote]. As to the independent hotels, companies like the Leading Hotels of the World are offering loyalty program of luxury independent hotels all over the world. Independent hotels experienced an average 50% increase in annual revenue when customers joined their loyalty programs (Voorhees, C., McCall, M., & Carroll, B. 2014)[^voonote]. In a word, loyalty program and loyal guests are playing more and more important role in hotel business globally, including hotel groups and independent hotels. 
+More and more hotel groups are promoting attracting loyalty programs, for attracting the top 20% loyalty guests who is contribution 80% revenue to the hotel. After the Marriott – Starwood Merger, the worlds’ biggest hotel group is having the most powerful frequent traveler programs in the lodging industry, with 100 million loyal members (Marriott 2016 Annual Report)[^marnote]. As to the independent hotels, companies like the Leading Hotels of the World are offering loyalty program of luxury independent hotels all over the world. Independent hotels experienced an average 50% increase in annual revenue when customers joined their loyalty programs (Voorhees, C., McCall, M., & Carroll, B. 2014)[^voonote]. In a word, loyalty programs and loyal guests are playing more and more important role in hotel business globally, including hotel groups and independent hotels. To understand more about those loyal guests, can help serve them better and attract new loyal guests to increase current revenue and guarantee future revenue.
 
 Although hoteliers were trying their best to serve the guests, based on their experience and personal judgement in the past century, hotels don’t have powerful tools or systems to have a thorough and aggregated understanding of those high-value guests to achieve the best business outcome. Guests’ experience is unsatisfied, the price and the guests willing to pay are mismatching, and they are even continuously losing high-value guests. 
 
@@ -19,19 +25,25 @@ knitr::include_graphics('https://www.smartertravel.com/uploads/2017/04/Ed-Choice
 ```
 
 
-## A middle.
+## Existing Data Plus Data Science Technics can Lead to a Better Understanding of Guests.
 
-Because loyalty guests are very easy to be tracked by membership number, there is a lot of data source available to start with. The reservation data from Property Management System (PMS) for better pricing: booking channels, advance days of booking, reservation change history, type of rooms booked, travel destinations, hotel brands, yearly revenue contribution, etc. The guests’ preferences from PMS for better service: the bedding and pillow, welcome amenity, transportation service, room view, room facility, special needs, F&B purchase, meeting and business service needs, etc. The website browse and click data when members logging in to the hotel websites for better marketing campaigns. And even the data from hotel cameras in public areas for better hotel design and service: guests’ move flow in the hotel, the size of luggage, the time that active in the public area, etc. 
-
+Because loyalty guests are very easy to be tracked by membership number, there is a lot of data source available to start with. The reservation data from Property Management System (PMS) for better pricing: booking channels, advance days of booking, reservation change history, type of rooms booked, travel destinations, hotel brands, yearly revenue contribution, etc. The guests’ preferences from PMS for better service: the bedding and pillow, welcome amenity, transportation service, room view, room facility, special needs, F&B purchase, meeting and business service needs, etc. The website browse and click data when members logging in to the hotel websites for better marketing campaigns. And even the data from hotel cameras in public areas for better hotel design and service: guests’ move flow in the hotel, the size of luggage, the time that active in the public area, etc. Besides the existing data, with the development of AI technology, more and more hotels are providing smart speakers, such as Echo from Amazon, Google Home, mall Genie from Alibaba, etc. The corporation with smart speakers can provide more interactive data from guests to the hotel. In addition to the in-house data, the third-party data sources are also very valuable, such as competitor pricing, online customer reviews, social media, airline information, weather forecast, local events, etc.
 
 If all the data mentioned above could be aggregated into one data set for data science technologies (machine learning, deep learning with smart camera network, time series forecasting, etc.), we would have a better understanding of the guests’ needs, preferences, affordable prices, travel purposes, even before they understand themselves. 
 
+With those deeper understanding on loyalty guests, hotels/hotel groups can send personal welcome letter before guests’ arrival, provide unique service before they ask, offer unique and customized price based on their annual revenue contribution, and introduce the newly open hotels or products which they must be interested in. 
 
-## An end.
+For example, Mr. and Mrs. Zhang are taking vocation with their children in a resort hotel. Since they are the top level loyal guests, their satisfaction can bring a lot of revenue to the hotel group. (1) Before they plan a vacation, the hotel group already send out promotion email of multiple luxury and upscale resort hotels in the destinations that they may interested in with the unique dynamic price only for their family. Because the hotel group know that they have annual vacation trip at the same period for the last three years and they tend to book hotel two months ahead. (2) before they arrive, the hotel has already assigned a nice room with welcome fruit and ice cream with their son's favorite flavor. The room has ocean view and is far away from the elevator according to their previous room preference, Because Mrs. Zhang like quite place with nice view. (3) When they are dining in the hotel, according to their diet preference, the hotel can always recommend dishes to meet their satisfaction. (4) The smart speaker in the room can ask for their needs, set their favorite room light, and recommend hotel facilities according to their preference. (5) The camera in the public area can recognize them, understand their facial expression, predict their needs and direction, and inform the related hotel staff prepare or come to help. (6) After they have a wonderful stay experience at the hotel, all the data for this trip is analyzed and stored in the cloud and used for their next trip.
 
-With those deeper understanding on loyalty guests, hotels/hotel groups can send personal welcome letter before guests’ arrival, provide unique service before they ask, offer unique and customized price based on their annual revenue contribution, and introduce the newly open hotels or products which they must be interested in. Because the hotel/hotel groups provide such a unique and personalized service to the guests based on the data science technology, and the price they charge is just at the guests’ affordable level, the guests experience and loyalty retention rate will be improved, and the revenue outcome will increase enormously. 
 
-However, there is still some concerns about the loyalty program improvement by data science technologies. (1) Different people sometimes will use the same loyalty membership card for the benefit of the free upgrade and amenities, which let the one guests account as many different guests’ information. (2) The unique and customized service will increase the cost. So, hotels need to pay attention to the cost and revenue balance, by selecting the service level of granularity base on their brand features. 
+
+## Promising Results and Limitations.
+
+Because the hotel/hotel groups provide such a unique and personalized service to the guests based on the data science technology, and the price they charge is just at the guests’ affordable level, the guests experience and loyalty retention rate will be improved, and the revenue outcome will increase enormously. What's more, with the understanding of current loyalty guests and the market, the hotel can forecast the booming or emerging market demand and offer promotion or campaign to attract new loyal guests. So, both the current and future revenue will be guaranteed.  
+
+However, there is still some concerns about the loyalty program improvement by data science technologies. (1) Different people sometimes will use the same loyalty membership card for the benefit of the free upgrade and amenities, which let the one guests account as many different guests’ information. (2) The unique and customized service will increase the cost. So, hotels need to pay attention to the cost and revenue balance, by selecting the service level of granularity base on their brand features. (3) Bais of "Law of Small Numbers" may happen when analysising the very high end guests, such as celebrities, guests book presidential, guests with unique preferences, etc. (4) Data privacy is another concern, when hotel s are trying to know the loyal guests from every possible aspects, especially unique preferences.  
+
+
 
 [^marnote]:Marriott International, Inc.. (2016). Marriott International, Inc.. Annual Report.. Retrieved from: http://investor.shareholder.com/MAR/reports.cfm.
 
