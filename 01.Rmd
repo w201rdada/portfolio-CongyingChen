@@ -20,6 +20,7 @@ knitr::include_graphics('https://www.smartertravel.com/uploads/2017/04/Ed-Choice
 <img src="https://www.smartertravel.com/uploads/2017/04/Ed-Choice-Hotel-Rewards-1024x768.jpg" alt="Hotel Loyalty Programs" width="560" height="480"> -->
 
 <p align="center">
+<img src="https://www.smartertravel.com/uploads/2017/04/Ed-Choice-Hotel-Rewards-1024x768.jpg" alt="Hotel Loyalty Programs" width="560" height="480">
 <a href="hotel">https://www.smartertravel.com/2017/04/12/best-hotel-loyalty-programs-2017/ 1</a>
 </p>
 
