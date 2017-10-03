@@ -18,7 +18,7 @@ However, mountains of data about those guests is already available in the hotel 
 knitr::include_graphics('https://www.smartertravel.com/uploads/2017/04/Ed-Choice-Hotel-Rewards-1024x768.jpg')
 ```-->
 
-![alt text](https://www.smartertravel.com/uploads/2017/04/Ed-Choice-Hotel-Rewards-1024x768.jpg "Hotel Loyalty Programs")
+![Hotel Loyalty Programs](https://www.smartertravel.com/uploads/2017/04/Ed-Choice-Hotel-Rewards-1024x768.jpg "Hotel Loyalty Programs")
 
 ## Existing Data Plus Data Science Technics can Lead to a Better Understanding of Guests.
 
