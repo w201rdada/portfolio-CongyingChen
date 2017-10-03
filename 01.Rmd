@@ -1,15 +1,10 @@
----
-output:
-  word_document: default
-  pdf_document: default
-  html_document: default
----
+
 
 # Personalized Service and Pricing for Hotel Loyal Guests {#PSP-HotelLoyalty}
 
 #### Keywords
 
-Hotel Loyalty Guests, Personalized service, Dynamic Pricing
+Hotel Loyalty Guests, Personalized service, Dynamic Pricing, Revenue
 
 ## Loyalty Program Can Bring More Revnue, if Hotels Know Their Guests Better.
 
@@ -19,11 +14,11 @@ Although hoteliers were trying their best to serve the guests, based on their ex
 
 However, mountains of data about those guests is already available in the hotel systems. Hence, in order to have a better business outcome, hotels/hotel groups need to utilize the state of are data science technologies to increase the quality of personized service products and have a better customized pricing for high-level loyalty guests.  
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[Hotel Loyalty Programs](https://www.smartertravel.com/2017/04/12/best-hotel-loyalty-programs-2017/)',fig.align='center',out.width='80%'}
+<!--```{r machine-learning,echo=FALSE,fig.cap='[Hotel Loyalty Programs](https://www.smartertravel.com/2017/04/12/best-hotel-loyalty-programs-2017/)',fig.align='center',out.width='80%'}
 knitr::include_graphics('https://www.smartertravel.com/uploads/2017/04/Ed-Choice-Hotel-Rewards-1024x768.jpg')
-```
+```-->
 
+![alt text](https://www.smartertravel.com/uploads/2017/04/Ed-Choice-Hotel-Rewards-1024x768.jpg "Hotel Loyalty Programs")
 
 ## Existing Data Plus Data Science Technics can Lead to a Better Understanding of Guests.
 
