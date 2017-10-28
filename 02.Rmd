@@ -9,19 +9,19 @@ Online Travel Agency (OTA), Travel Destination, Tourism Product, Precision Marke
 Thanks to the development of internet, social media and travel websites, people have more places of interests around the world to visit, make travel plan online, share happiness and experience to their social network, and motivate the other people to plan for a trip (Skift Report 2017)[^1].
 
 <p align="center">
-<img src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-23-at-3.48.42-PM.png" alt="Most used resources for oversea trip planing" width="560" height="480">
+<img src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-23-at-3.48.42-PM.png" alt="Most-Used Resources for Oversea Trip Planing in 2017" width="560" height="480">
 </p>
 <p align="center">
-<a href="https://skift.com/2017/08/25/5-charts-showing-the-rise-of-independent-chinese-travelers/"> Most used resources for oversea trip planing </a>
+<a href="https://skift.com/2017/08/25/5-charts-showing-the-rise-of-independent-chinese-travelers/"> Most-Used Resources for Oversea Trip Planing in 2017</a>
 </p>
 
 In addition, more and more travelers tend to have personalized travel plan instead of mass tour group products. For example, in 2017, more than 135 million Chinese are projected to travel abroad, making China the world’s largest outbound travel market, and 70 percent of Chinese outbound travelers plan to either make their own travel arrangements or buy a travel package but travel on their own for their next overseas trip (Skift Report 2017)[^1].
 
 <p align="center">
-<img src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-23-at-3.47.46-PM.png" alt="Travel Arrangement for most recent trip and next trip" width="560" height="480">
+<img src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-23-at-3.47.46-PM.png" alt="Travel Arrangement for Most Recent Trip and Next Trip, May 2017" width="560" height="480">
 </p>
 <p align="center">
-<a href="https://skift.com/2017/08/25/5-charts-showing-the-rise-of-independent-chinese-travelers/"> Travel Arrangement for most recent trip and next trip </a>
+<a href="https://skift.com/2017/08/25/5-charts-showing-the-rise-of-independent-chinese-travelers/"> Travel Arrangement for Most Recent Trip and Next Trip, May 2017 </a>
 </p>
 
 However, online travel agencies (OTAs) are still displaying the travel packages quoted individually from hotel, airline, rental cars, etc.. There are not enough integrated online t tourism products meeting the needs of those emerging independent Chinese travelers, who is looking for tourism products with novelty, convenience, flexibility, and personalization. If an online travel agency websites can help utilize the data from the travelers’ online footprints and provided personized tourism products to them, it would create the benefits for both travelers and online travel agencies.
