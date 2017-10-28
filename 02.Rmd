@@ -1,25 +1,55 @@
-# My second cool idea {#slug-two}
+# Personalized Tourism Products in the Digital Age {#Personalized-Tourism-Products}
 
 #### Keywords
 
-yaba, daba, do
+Online Travel Agency (OTA), Travel Destination, Tourism Product, Precision Marketing, Social Media
 
-## A beginning.
+## Tourists Require Better Personalized Tourism Products and Precision Marketing in the Digital Age.
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+Thanks to the development of internet, social media and travel websites, people have more places of interests around the world to visit, make travel plan online, share happiness and experience to their social network, and motivate the other people to plan for a trip (Skift Report 2017)[^1].
 
-## A middle.
+<p align="center">
+<img src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-23-at-3.48.42-PM.png" alt="Most used resources for oversea trip planing" width="560" height="480">
+</p>
+<p align="center">
+<a href="https://skift.com/2017/08/25/5-charts-showing-the-rise-of-independent-chinese-travelers/"> Most used resources for oversea trip planing </a>
+</p>
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
+In addition, more and more travelers tend to have personalized travel plan instead of mass tour group products. For example, in 2017, more than 135 million Chinese are projected to travel abroad, making China the world’s largest outbound travel market, and 70 percent of Chinese outbound travelers plan to either make their own travel arrangements or buy a travel package but travel on their own for their next overseas trip (Skift Report 2017)[^1].
+
+<p align="center">
+<img src="https://3rxg9qea18zhtl6s2u8jammft-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-23-at-3.47.46-PM.png" alt="Travel Arrangement for most recent trip and next trip" width="560" height="480">
+</p>
+<p align="center">
+<a href="https://skift.com/2017/08/25/5-charts-showing-the-rise-of-independent-chinese-travelers/"> Travel Arrangement for most recent trip and next trip </a>
+</p>
+
+However, online travel agencies (OTAs) are still displaying the travel packages quoted individually from hotel, airline, rental cars, etc.. There are not enough integrated online t tourism products meeting the needs of those emerging independent Chinese travelers, who is looking for tourism products with novelty, convenience, flexibility, and personalization. If an online travel agency websites can help utilize the data from the travelers’ online footprints and provided personized tourism products to them, it would create the benefits for both travelers and online travel agencies.
+
+Also, the marketing campaigns of those new tourism products are also not making full use of the data to help Sales & Marketing department to make the right decision of precision marketing. For example, Fliggy, the OTA brand of Alibaba, promoted a tourism product of the Aurora Trip to Finland by collaborating with a lot of famous brands to maximize the exposure to 300 million; but the final sale of the product is only 5000, with the conversion rate less than 0.002% (Xinhua News 2017)[^2]. 
+
+In a word, the utilizing of data from users’ online activities can help OTAs find the potential high demand of travel destinations, provide more personalized tourism products, and implement better precision marketing, in order to gain better revenue outcome and tourists’ experience. 
 
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+## Data from Digital World Can Help Identify the Hot Travel Destinations.
+
+There must be a large amount of data that we can utilize to understand the tourists better and have smarter decisions. The data source can be the review data from travel websites (TripAdvisor, Meituan-Dianping, Yelp, etc.), the recent travel-related hot topics in social media (Facebook, Twitter, Weibo, WeChat, QQ, etc.), airline arrangement and change, local events, statistic reports from Tourism Department, etc. The object of the data science work is to use those data online and figure out trending travel destinations and relevant groups of tourists. 
+
+As for the technologies, Nature Language Processing with Deep Learning must be the key of the project, since most data source comes as unstructured nature language. Statistic technics and Machine Learning tools will also be used to analyze Tourism Department data, airline data, and local events data. 
+
+To conceptualize the project, in the first stage of the project, we can focus on identifying the hot travel destinations. And operational metrics of the hot travel destination can be a comprehensive score measuring multiple aspects, such as distance from the tourists, frequency of being positively mentioned in the social media within a given period, review scores, airline arrangement, number and quality of events, etc. The higher the score, the higher demand that the destination will be. Then the OTAs can pick up those destinations to develop a tourism products and marketing them.  
 
 
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
+## A Win-win-win Project for Tourists, OTAs, and Local Communities.
 
-## An end.
+With the help of Data Science technics, the massive data from websites can help OTAs identify high-demand travel destinations and related group of customers; develop the products and price max affordable price to those identified customers, and target marketing those customers; then finally generate revenue and customer loyalty for OTAs, bring economic benefits to local community, and provide happiness and great moments to tourists. 
 
-Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
+However, the data we collected is hard to found attracting destinations that seldom have tourists visited, such as a beautiful valley, a peaceful and remoted village, etc.  Also, identifying the travel destination is only the first step of the whole project, the next step is to develop a attracting tourism products, then have the precision marketing implemented to make sure we reach those identified customers. 
+
+All in all, it must be a win-win-win project for Tourists, OTAs, and Local Communities!
+
+
+[^1]:Skift. (2017). Skift. 5 Charts Showing the Rise of Independent Chinese Travelers.. Retrieved from: https://skift.com/2017/08/25/5-charts-showing-the-rise-of-independent-chinese-travelers/.
+
+
+[^2]:Xinhuanet. (2017). Xinhuanet. Finland eyes bigger share of China's booming outbound tourism market.. Retrieved from: http://news.xinhuanet.com/english/2017-07/01/c_136409634.htm.
