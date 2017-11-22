@@ -42,7 +42,7 @@ Thanks to the development of internet, social media and travel websites, more pe
 
 ## About the author
 
-I'm the student of Master of Information and Data Science (MIDS) program at UC Berkeley, passionate about data science in Hospitality industry. As a hotelier for six years and an alumna from Cornell Hotel School, I have deep domain knowledge in Hospitality industry, especially in Hotel, Online Travel Agency, and Rental Car industries, focusing on marketing, pricing and strategy making. I believe by leveraging the state of art data science Tec knowledge, I can help hospitality companies generate better business outcome in the short future!
+I'm the student of Master of Information and Data Science (MIDS) program at UC Berkeley, passionate about data science in Hospitality industry. As a hotelier for six years and an alumna from Cornell Hotel School, I have deep domain knowledge in Hospitality industry, especially in Hotel, restaurant, Online Travel Agency, and Rental Car industries, focusing on marketing, pricing and strategy making. I believe by leveraging the state of art data science Tec knowledge, I can help hospitality companies generate better business outcome in the short future!
 
 
 *Updated: `r Sys.Date()`*
