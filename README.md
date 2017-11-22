@@ -35,3 +35,7 @@ To edit these files, you can:
   + Recommended if you are comfortable with `R`.
 
 If you use your own editor, be sure to save in `utf-8`.
+
+## Launch the RStudio Server instance
+http://hub.w201rdada.org/v2/gh/w201rdada/portfolio-CongyingChen/master?urlpath=rstudio
+
