@@ -15,9 +15,9 @@ library(magrittr)
 # Welcome!
 
 <!-- You can include images saved within your repo... -->
-<```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
+<!---```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
 knitr::include_graphics('img/hello-world.png')
-```> -->
+``` -->
 
 Welcome to my portfolio! As a data science graduate student and a hotelier for 6 years, I have two ideas about leveraging data science to help Hospitality companies gain better revenue outcome.
 
@@ -29,7 +29,6 @@ Welcome to my portfolio! As a data science graduate student and a hotelier for 6
 knitr::include_url('https://www.youtube.com/embed/ujsjekDb1ck')
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ujsjekDb1ck" frameborder="0" allowfullscreen></iframe>
 
 ### Abstract of my first cool idea - Personalized Service and Pricing for Hotel Loyal Guests
 
