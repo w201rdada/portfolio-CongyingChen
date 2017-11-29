@@ -12,7 +12,7 @@ library(magrittr)
 ```
 
 
-# Welcome!
+# Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
 <!---```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
@@ -40,7 +40,7 @@ Hotel loyalty guests usually bring the most revenue to hotel business. They requ
 Thanks to the development of internet, social media and travel websites, more people make travel plan online and tend to have personalized travel plan instead of mass tour group products, which require more tourism products from online travel agencies (OTA). with novelty, convenience, flexibility, and personalization, instead of simple rate quote of hotel price, airline tickets, and sometimes rental car rate. There must be a large amount of data (online review, social media, local events, etc.) that we, an OTA data science team, can utilize to understand the tourists better and have smarter tourism products. 
 
 
-## About the author
+## About the author {-}
 
 I'm the student of Master of Information and Data Science (MIDS) program at UC Berkeley, passionate about data science in Hospitality industry. As a hotelier for six years and an alumna from Cornell University Hotel School, I have deep domain knowledge in Hospitality industry, especially in Hotel, Restaurant, Online Travel Agency, and Rental Car, focusing on marketing, pricing and strategy making. I believe by leveraging the state of the art data science technology, I can help hospitality companies generate better business outcome in the short future!
 
