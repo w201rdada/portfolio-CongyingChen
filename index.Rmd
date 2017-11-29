@@ -26,7 +26,7 @@ Welcome to my portfolio! As a data science graduate student and a hotelier for s
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
 ```{r Data-Science,echo=FALSE,fig.cap='Data Science for Hospitality – Turning Data into Profit',fig.align='center'}
-knitr::include_url('https://www.youtube.com/embed/ujsjekDb1ck')
+knitr::include_url('https://drive.google.com/file/d/1cxeChXAymlQm2-dzR2_dg99h_oi6Lx9D/view?usp=sharing')
 ```
 
 
